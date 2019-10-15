@@ -9,7 +9,7 @@ struct stack *head=NULL;
 void push(int n,int c);
 void pop();
 void display();
-void main()
+void createstack()
 {
 int choice=1; int n,i,k;
 
